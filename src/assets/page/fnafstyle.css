@@ -109,3 +109,11 @@ color: #df49a6;
 .modcomment {
   padding-left: 150px;
 }
+button {
+  background-color:#1FD78D;
+  border-radius: 5px;
+  font-family: 'Play', sans-serif;
+  color:white;
+  border-color: none;
+  font-size:16px;
+}
