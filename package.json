@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "config": "^3.3.7",
+    "dropbox": "^10.32.0",
     "electron-squirrel-startup": "^1.0.0",
     "requirejs": "^2.3.6"
   },
