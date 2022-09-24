@@ -29356,8 +29356,8 @@ dbx.usersGetCurrentAccount().then(function (response) {
 }).catch(function (err) {
 console.error(err);
 });
-dbx.filesListFolder({path: ''}).then(function (response) {
-    console.log(response);
+dbx.filesListFolder({path: '/screenshots'}).then(function (response) {
+    console.log(response.entries);
 }).catch(function (err) {
 console.error(err);
 });
